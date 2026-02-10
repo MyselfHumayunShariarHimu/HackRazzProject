@@ -1,2 +1,2 @@
-# HackeRazz
-HackeRazz - Hacking Learning Project
+# AiMindHack
+Artificial Intelligence Mind Hacking Learning Guide
